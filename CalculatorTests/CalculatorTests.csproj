@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\APICalcutions\APICalcutions.csproj" />
     <ProjectReference Include="..\CalculationLibrary1\CalculationLibrary1.csproj" />
-    <ProjectReference Include="..\WebAPI\WebAPI.csproj" />
   </ItemGroup>
 
 </Project>

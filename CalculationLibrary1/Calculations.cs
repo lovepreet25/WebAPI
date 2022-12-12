@@ -1,5 +1,7 @@
 ﻿namespace CalculationLibrary1
 {
+
+    //The Calculation Library
     public class Calculations
     
    
